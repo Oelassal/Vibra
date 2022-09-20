@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676380179009",
+    "project_id": "finalvibra",
+    "storage_bucket": "finalvibra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676380179009:android:a51b518573b294d48ea4c0",
+        "android_client_info": {
+          "package_name": "com.example.quadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676380179009-n3mg5a5v84koaqj427bdgbusnh0428ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACv9X4HNwfO5q07Ppt9muRaDVbYauyubU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676380179009-n3mg5a5v84koaqj427bdgbusnh0428ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
